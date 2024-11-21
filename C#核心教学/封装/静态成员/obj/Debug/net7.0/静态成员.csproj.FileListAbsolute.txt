@@ -1,0 +1,14 @@
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\bin\Debug\net7.0\静态成员.exe
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\bin\Debug\net7.0\静态成员.deps.json
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\bin\Debug\net7.0\静态成员.runtimeconfig.json
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\bin\Debug\net7.0\静态成员.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\bin\Debug\net7.0\静态成员.pdb
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\obj\Debug\net7.0\静态成员.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\obj\Debug\net7.0\静态成员.AssemblyInfoInputs.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\obj\Debug\net7.0\静态成员.AssemblyInfo.cs
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\obj\Debug\net7.0\静态成员.csproj.CoreCompileInputs.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\obj\Debug\net7.0\静态成员.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\obj\Debug\net7.0\refint\静态成员.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\obj\Debug\net7.0\静态成员.pdb
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\obj\Debug\net7.0\静态成员.genruntimeconfig.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\静态成员\obj\Debug\net7.0\ref\静态成员.dll

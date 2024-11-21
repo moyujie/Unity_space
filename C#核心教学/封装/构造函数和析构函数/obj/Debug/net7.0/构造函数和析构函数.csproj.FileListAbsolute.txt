@@ -1,0 +1,14 @@
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\bin\Debug\net7.0\构造函数和析构函数.exe
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\bin\Debug\net7.0\构造函数和析构函数.deps.json
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\bin\Debug\net7.0\构造函数和析构函数.runtimeconfig.json
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\bin\Debug\net7.0\构造函数和析构函数.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\bin\Debug\net7.0\构造函数和析构函数.pdb
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\obj\Debug\net7.0\构造函数和析构函数.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\obj\Debug\net7.0\构造函数和析构函数.AssemblyInfoInputs.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\obj\Debug\net7.0\构造函数和析构函数.AssemblyInfo.cs
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\obj\Debug\net7.0\构造函数和析构函数.csproj.CoreCompileInputs.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\obj\Debug\net7.0\构造函数和析构函数.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\obj\Debug\net7.0\refint\构造函数和析构函数.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\obj\Debug\net7.0\构造函数和析构函数.pdb
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\obj\Debug\net7.0\构造函数和析构函数.genruntimeconfig.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\构造函数和析构函数\obj\Debug\net7.0\ref\构造函数和析构函数.dll

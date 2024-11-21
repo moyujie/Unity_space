@@ -1,0 +1,14 @@
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\bin\Debug\net7.0\索引器.exe
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\bin\Debug\net7.0\索引器.deps.json
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\bin\Debug\net7.0\索引器.runtimeconfig.json
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\bin\Debug\net7.0\索引器.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\bin\Debug\net7.0\索引器.pdb
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\obj\Debug\net7.0\索引器.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\obj\Debug\net7.0\索引器.AssemblyInfoInputs.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\obj\Debug\net7.0\索引器.AssemblyInfo.cs
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\obj\Debug\net7.0\索引器.csproj.CoreCompileInputs.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\obj\Debug\net7.0\索引器.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\obj\Debug\net7.0\refint\索引器.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\obj\Debug\net7.0\索引器.pdb
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\obj\Debug\net7.0\索引器.genruntimeconfig.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\索引器\obj\Debug\net7.0\ref\索引器.dll

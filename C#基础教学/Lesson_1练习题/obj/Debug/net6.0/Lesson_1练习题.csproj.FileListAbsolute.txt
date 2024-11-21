@@ -1,0 +1,14 @@
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\bin\Debug\net6.0\Lesson_1练习题.exe
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\bin\Debug\net6.0\Lesson_1练习题.deps.json
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\bin\Debug\net6.0\Lesson_1练习题.runtimeconfig.json
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\bin\Debug\net6.0\Lesson_1练习题.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\bin\Debug\net6.0\Lesson_1练习题.pdb
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\obj\Debug\net6.0\Lesson_1练习题.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\obj\Debug\net6.0\Lesson_1练习题.AssemblyInfoInputs.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\obj\Debug\net6.0\Lesson_1练习题.AssemblyInfo.cs
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\obj\Debug\net6.0\Lesson_1练习题.csproj.CoreCompileInputs.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\obj\Debug\net6.0\Lesson_1练习题.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\obj\Debug\net6.0\refint\Lesson_1练习题.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\obj\Debug\net6.0\Lesson_1练习题.pdb
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\obj\Debug\net6.0\Lesson_1练习题.genruntimeconfig.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\Lesson_1练习题\obj\Debug\net6.0\ref\Lesson_1练习题.dll

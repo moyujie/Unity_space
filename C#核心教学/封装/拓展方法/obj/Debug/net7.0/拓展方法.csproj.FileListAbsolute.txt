@@ -1,0 +1,14 @@
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\bin\Debug\net7.0\拓展方法.exe
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\bin\Debug\net7.0\拓展方法.deps.json
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\bin\Debug\net7.0\拓展方法.runtimeconfig.json
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\bin\Debug\net7.0\拓展方法.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\bin\Debug\net7.0\拓展方法.pdb
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\obj\Debug\net7.0\拓展方法.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\obj\Debug\net7.0\拓展方法.AssemblyInfoInputs.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\obj\Debug\net7.0\拓展方法.AssemblyInfo.cs
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\obj\Debug\net7.0\拓展方法.csproj.CoreCompileInputs.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\obj\Debug\net7.0\拓展方法.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\obj\Debug\net7.0\refint\拓展方法.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\obj\Debug\net7.0\拓展方法.pdb
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\obj\Debug\net7.0\拓展方法.genruntimeconfig.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#核心教学\拓展方法\obj\Debug\net7.0\ref\拓展方法.dll

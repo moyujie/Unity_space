@@ -1,0 +1,14 @@
+D:\donghua\C#核心教学\内部类和分部类\bin\Debug\net7.0\内部类和分部类.exe
+D:\donghua\C#核心教学\内部类和分部类\bin\Debug\net7.0\内部类和分部类.deps.json
+D:\donghua\C#核心教学\内部类和分部类\bin\Debug\net7.0\内部类和分部类.runtimeconfig.json
+D:\donghua\C#核心教学\内部类和分部类\bin\Debug\net7.0\内部类和分部类.dll
+D:\donghua\C#核心教学\内部类和分部类\bin\Debug\net7.0\内部类和分部类.pdb
+D:\donghua\C#核心教学\内部类和分部类\obj\Debug\net7.0\内部类和分部类.GeneratedMSBuildEditorConfig.editorconfig
+D:\donghua\C#核心教学\内部类和分部类\obj\Debug\net7.0\内部类和分部类.AssemblyInfoInputs.cache
+D:\donghua\C#核心教学\内部类和分部类\obj\Debug\net7.0\内部类和分部类.AssemblyInfo.cs
+D:\donghua\C#核心教学\内部类和分部类\obj\Debug\net7.0\内部类和分部类.csproj.CoreCompileInputs.cache
+D:\donghua\C#核心教学\内部类和分部类\obj\Debug\net7.0\内部类和分部类.dll
+D:\donghua\C#核心教学\内部类和分部类\obj\Debug\net7.0\refint\内部类和分部类.dll
+D:\donghua\C#核心教学\内部类和分部类\obj\Debug\net7.0\内部类和分部类.pdb
+D:\donghua\C#核心教学\内部类和分部类\obj\Debug\net7.0\内部类和分部类.genruntimeconfig.cache
+D:\donghua\C#核心教学\内部类和分部类\obj\Debug\net7.0\ref\内部类和分部类.dll

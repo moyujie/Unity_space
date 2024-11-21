@@ -1,0 +1,14 @@
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\bin\Debug\net6.0\交错数组.exe
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\bin\Debug\net6.0\交错数组.deps.json
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\bin\Debug\net6.0\交错数组.runtimeconfig.json
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\bin\Debug\net6.0\交错数组.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\bin\Debug\net6.0\交错数组.pdb
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\obj\Debug\net6.0\交错数组.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\obj\Debug\net6.0\交错数组.AssemblyInfoInputs.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\obj\Debug\net6.0\交错数组.AssemblyInfo.cs
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\obj\Debug\net6.0\交错数组.csproj.CoreCompileInputs.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\obj\Debug\net6.0\交错数组.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\obj\Debug\net6.0\refint\交错数组.dll
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\obj\Debug\net6.0\交错数组.pdb
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\obj\Debug\net6.0\交错数组.genruntimeconfig.cache
+C:\Users\来个魔芋结\Desktop\donghua\C#基础教学\交错数组\obj\Debug\net6.0\ref\交错数组.dll
