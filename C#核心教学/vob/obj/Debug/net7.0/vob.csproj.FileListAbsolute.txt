@@ -1,0 +1,14 @@
+D:\last\Unity_space\C#核心教学\vob\bin\Debug\net7.0\vob.exe
+D:\last\Unity_space\C#核心教学\vob\bin\Debug\net7.0\vob.deps.json
+D:\last\Unity_space\C#核心教学\vob\bin\Debug\net7.0\vob.runtimeconfig.json
+D:\last\Unity_space\C#核心教学\vob\bin\Debug\net7.0\vob.dll
+D:\last\Unity_space\C#核心教学\vob\bin\Debug\net7.0\vob.pdb
+D:\last\Unity_space\C#核心教学\vob\obj\Debug\net7.0\vob.GeneratedMSBuildEditorConfig.editorconfig
+D:\last\Unity_space\C#核心教学\vob\obj\Debug\net7.0\vob.AssemblyInfoInputs.cache
+D:\last\Unity_space\C#核心教学\vob\obj\Debug\net7.0\vob.AssemblyInfo.cs
+D:\last\Unity_space\C#核心教学\vob\obj\Debug\net7.0\vob.csproj.CoreCompileInputs.cache
+D:\last\Unity_space\C#核心教学\vob\obj\Debug\net7.0\vob.dll
+D:\last\Unity_space\C#核心教学\vob\obj\Debug\net7.0\refint\vob.dll
+D:\last\Unity_space\C#核心教学\vob\obj\Debug\net7.0\vob.pdb
+D:\last\Unity_space\C#核心教学\vob\obj\Debug\net7.0\vob.genruntimeconfig.cache
+D:\last\Unity_space\C#核心教学\vob\obj\Debug\net7.0\ref\vob.dll
