@@ -1,0 +1,14 @@
+D:\last\Unity_space\C#核心教学\万物之父中的方法\bin\Debug\net7.0\万物之父中的方法.exe
+D:\last\Unity_space\C#核心教学\万物之父中的方法\bin\Debug\net7.0\万物之父中的方法.deps.json
+D:\last\Unity_space\C#核心教学\万物之父中的方法\bin\Debug\net7.0\万物之父中的方法.runtimeconfig.json
+D:\last\Unity_space\C#核心教学\万物之父中的方法\bin\Debug\net7.0\万物之父中的方法.dll
+D:\last\Unity_space\C#核心教学\万物之父中的方法\bin\Debug\net7.0\万物之父中的方法.pdb
+D:\last\Unity_space\C#核心教学\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.GeneratedMSBuildEditorConfig.editorconfig
+D:\last\Unity_space\C#核心教学\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.AssemblyInfoInputs.cache
+D:\last\Unity_space\C#核心教学\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.AssemblyInfo.cs
+D:\last\Unity_space\C#核心教学\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.csproj.CoreCompileInputs.cache
+D:\last\Unity_space\C#核心教学\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.dll
+D:\last\Unity_space\C#核心教学\万物之父中的方法\obj\Debug\net7.0\refint\万物之父中的方法.dll
+D:\last\Unity_space\C#核心教学\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.pdb
+D:\last\Unity_space\C#核心教学\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.genruntimeconfig.cache
+D:\last\Unity_space\C#核心教学\万物之父中的方法\obj\Debug\net7.0\ref\万物之父中的方法.dll

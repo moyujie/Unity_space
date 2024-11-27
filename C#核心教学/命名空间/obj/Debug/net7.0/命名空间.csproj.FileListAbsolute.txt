@@ -1,0 +1,14 @@
+D:\last\Unity_space\C#核心教学\命名空间\bin\Debug\net7.0\命名空间.exe
+D:\last\Unity_space\C#核心教学\命名空间\bin\Debug\net7.0\命名空间.deps.json
+D:\last\Unity_space\C#核心教学\命名空间\bin\Debug\net7.0\命名空间.runtimeconfig.json
+D:\last\Unity_space\C#核心教学\命名空间\bin\Debug\net7.0\命名空间.dll
+D:\last\Unity_space\C#核心教学\命名空间\bin\Debug\net7.0\命名空间.pdb
+D:\last\Unity_space\C#核心教学\命名空间\obj\Debug\net7.0\命名空间.GeneratedMSBuildEditorConfig.editorconfig
+D:\last\Unity_space\C#核心教学\命名空间\obj\Debug\net7.0\命名空间.AssemblyInfoInputs.cache
+D:\last\Unity_space\C#核心教学\命名空间\obj\Debug\net7.0\命名空间.AssemblyInfo.cs
+D:\last\Unity_space\C#核心教学\命名空间\obj\Debug\net7.0\命名空间.csproj.CoreCompileInputs.cache
+D:\last\Unity_space\C#核心教学\命名空间\obj\Debug\net7.0\命名空间.dll
+D:\last\Unity_space\C#核心教学\命名空间\obj\Debug\net7.0\refint\命名空间.dll
+D:\last\Unity_space\C#核心教学\命名空间\obj\Debug\net7.0\命名空间.pdb
+D:\last\Unity_space\C#核心教学\命名空间\obj\Debug\net7.0\命名空间.genruntimeconfig.cache
+D:\last\Unity_space\C#核心教学\命名空间\obj\Debug\net7.0\ref\命名空间.dll
