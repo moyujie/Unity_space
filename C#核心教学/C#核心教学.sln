@@ -3,30 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vob", "vob\vob.csproj", "{2E5B9E02-DC24-4DC5-85A6-5F687BAF9174}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象类和抽象方法", "抽象类和抽象方法\抽象类和抽象方法.csproj", "{DE610452-781E-4338-81CF-395F6F672E16}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口", "接口\接口.csproj", "{B7A83AB6-CBD5-47A3-84A3-130903D4715D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2E5B9E02-DC24-4DC5-85A6-5F687BAF9174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2E5B9E02-DC24-4DC5-85A6-5F687BAF9174}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2E5B9E02-DC24-4DC5-85A6-5F687BAF9174}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2E5B9E02-DC24-4DC5-85A6-5F687BAF9174}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DE610452-781E-4338-81CF-395F6F672E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE610452-781E-4338-81CF-395F6F672E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE610452-781E-4338-81CF-395F6F672E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE610452-781E-4338-81CF-395F6F672E16}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B7A83AB6-CBD5-47A3-84A3-130903D4715D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7A83AB6-CBD5-47A3-84A3-130903D4715D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7A83AB6-CBD5-47A3-84A3-130903D4715D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7A83AB6-CBD5-47A3-84A3-130903D4715D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
